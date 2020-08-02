@@ -1,0 +1,16 @@
+.header__banner {
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 767px) {
+  .header__banner {
+    min-height: calc(300px - 2*20px);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .header__banner {
+    height: 100%;
+  }
+}

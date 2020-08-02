@@ -1,0 +1,67 @@
+/* @font-face {
+  font-family: ;
+  src: url() format('woff2'),
+       url() format('woff'),
+       url() format('truetype');
+  font-weight: ;
+  font-style: ;
+}
+ */
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url(./Source_Sans_Pro/SourceSansPro-Regular.ttf) format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url(./Source_Sans_Pro/SourceSansPro-SemiBold.ttf) format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Crimson Text';
+  src: url(./Crimson_Text/CrimsonText-Regular.ttf) format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Crimson Text';
+  src: url(./Crimson_Text/CrimsonText-SemiBold.ttf) format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+       
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: url(./Cormorant_Garamond/CormorantGaramond-Light.ttf) format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: url(./Cormorant_Garamond/CormorantGaramond-Regular.ttf) format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: url(./Cormorant_Garamond/CormorantGaramond-SemiBold.ttf) format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: url(./Cormorant_Garamond/CormorantGaramond-Bold.ttf) format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+       
+

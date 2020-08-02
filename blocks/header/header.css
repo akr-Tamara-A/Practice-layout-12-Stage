@@ -1,0 +1,15 @@
+@import url(./__banner/header__banner.css);
+@import url(./__logo/header__logo.css);
+@import url(./__title/header__title.css);
+@import url(./__subtitle/header__subtitle.css);
+@import url(./__author/header__author.css);
+
+.header {
+  background-color: #f9a19a;
+  background-image: url(./../../images/event-banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  box-sizing: border-box;
+  padding: 20px;
+}
